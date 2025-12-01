@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "神っぽいな",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-01T07:54:48.971914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God-ish (English Cover)【Will Stetson】「歌ってみた 神っぽいな」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/01_God-ish_(English_Cover)【Will_Stetson】「歌ってみた_神っぽいな」_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_神っぽいな_(DECO_27's_Miku_Ver.)_DECO_27_&_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神っぽいな",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_神っぽいな_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神っぽいな - God-ish",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/04_神っぽいな_-_God-ish_PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "神っぽいな",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/05_神っぽいな_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "神っぽいな",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/06_神っぽいな_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_神っぽいな_(DECO_27's_Miku_Ver.)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "DECO*27/PinocchioP",
+      "has_synced": true,
+      "path": "select/08_神っぽいな_(DECO_27's_Miku_Ver.)_DECO_27_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "神っぽいな",
+      "artist": "deco27×PinocchioP",
+      "has_synced": true,
+      "path": "select/09_神っぽいな_deco27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "deco27×PinocchioP",
+      "has_synced": true,
+      "path": "select/10_神っぽいな_(DECO_27's_Miku_Ver.)_deco27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/11_神っぽいな_(DECO_27's_Miku_Ver.)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "DECO*27×PinocchioP",
+      "has_synced": true,
+      "path": "select/12_神っぽいな_(DECO_27's_Miku_Ver.)_DECO_27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "神っぽいな (DECO*27's Miku Ver.)",
+      "artist": "DECO*27, PinocchioP",
+      "has_synced": true,
+      "path": "select/13_神っぽいな_(DECO_27's_Miku_Ver.)_DECO_27,_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "神っぽいな",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/14_神っぽいな_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "神っぽいな (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/15_神っぽいな_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神っぽいな - Covered by philo",
+      "artist": "philo",
+      "has_synced": false,
+      "path": "select/pl_01_神っぽいな_-_Covered_by_philo_philo.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "神っぽいな",
+      "artist": "philo",
+      "has_synced": false,
+      "path": "select/pl_02_神っぽいな_philo.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "神っぽいな",
+      "artist": "philo",
+      "has_synced": false,
+      "path": "select/pl_03_神っぽいな_philo.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "神っぽいな(PARED cover)",
+      "artist": "philo",
+      "has_synced": false,
+      "path": "select/pl_04_神っぽいな(PARED_cover)_philo.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "神っぽいな",
+      "artist": "philo",
+      "has_synced": false,
+      "path": "select/pl_05_神っぽいな_philo.txt"
+    }
+  ]
+}
